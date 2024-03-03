@@ -1,2 +1,2 @@
-touch crnjob1
+touch pollscm1
 echo "cronjob1"
